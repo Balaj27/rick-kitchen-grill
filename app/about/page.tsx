@@ -14,7 +14,7 @@ export default function AboutPage() {
       <PageIntro
         eyebrow="The Nick's way"
         title="A grill with a point of view."
-        image={foodImages.kitchen}
+        image="/indoor.png"
         sectionClassName="about-page-hero"
       />
       <section className="mx-auto grid max-w-7xl gap-12 px-6 py-20 sm:py-28 lg:grid-cols-2 lg:px-10">
@@ -48,7 +48,7 @@ export default function AboutPage() {
       <section className="bg-[#e8dfcf] px-6 py-20 sm:py-28">
         <div className="mx-auto grid max-w-7xl gap-8 sm:grid-cols-2">
           <Image
-            src={foodImages.steak}
+            src= "/3.jpeg"
             alt="Steak fresh from the grill"
             width={800}
             height={650}
