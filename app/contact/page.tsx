@@ -38,11 +38,18 @@ export default function ContactPage() {
             <p>
               <strong className="text-[#27231f]">Address</strong>
               <br />
-              17G, Jalan Putra Mahkota 7/6b
-              <br />
-              Putra Heights, 47650 Subang Jaya
-              <br />
-              Selangor, Malaysia
+              <a
+                href="https://maps.app.goo.gl/mb6Ycb4FS2RcYeTVA"
+                target="_blank"
+                rel="noreferrer"
+                className="transition-colors hover:text-[#b64b35]"
+              >
+                17G, Jalan Putra Mahkota 7/6b
+                <br />
+                Putra Heights, 47650 Subang Jaya
+                <br />
+                Selangor, Malaysia
+              </a>
             </p>
             <p>
               <strong className="text-[#27231f]">Hours</strong>

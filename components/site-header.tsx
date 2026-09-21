@@ -97,11 +97,18 @@ export function Footer() {
             Find us
           </h2>
           <p className="mt-4 text-sm leading-6 text-white/70">
-            17G, Jalan Putra Mahkota 7/6b
-            <br />
-            Putra Heights, 47650 Subang Jaya
-            <br />
-            Selangor, Malaysia
+            <a
+              href="https://maps.app.goo.gl/mb6Ycb4FS2RcYeTVA"
+              target="_blank"
+              rel="noreferrer"
+              className="transition-colors hover:text-white"
+            >
+              17G, Jalan Putra Mahkota 7/6b
+              <br />
+              Putra Heights, 47650 Subang Jaya
+              <br />
+              Selangor, Malaysia
+            </a>
             <br />
             <a href="tel:+60183814255" className="hover:text-white">
               +60 18-381 4255
