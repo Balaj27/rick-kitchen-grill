@@ -83,19 +83,19 @@ export default function HomePage() {
           </div>
           <div className="grid gap-5 sm:grid-cols-3">
             <Feature
-              image="/1.jpeg"
+              image="/4.jpeg"
               title="Prime cuts"
               text="Simple seasoning. Serious char."
             />
             <Feature
               image="/2.jpeg"
-              title="Fresh sides"
-              text="Color, crunch, and a little acid."
+              title="Wood-fired pizza"
+              text="Crisp crust. Rich sauce. Serious flavor."
             />
             <Feature
-              image={foodImages.kitchen}
-              title="Made in-house"
-              text="From our kitchen to your table."
+              image="/1.jpeg"
+              title="Fresh pasta"
+              text="Handmade pasta. Rich sauces. Full flavor."
             />
           </div>
         </div>
