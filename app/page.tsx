@@ -13,7 +13,7 @@ export default function HomePage() {
       <SiteHeader />
       <section className="relative flex min-h-[88vh] items-end overflow-hidden bg-[#29231f] px-6 pb-16 pt-32 text-white sm:pb-24">
         <Image
-          src={foodImages.hero}
+          src="/hero.jpeg"
           alt="A beautifully grilled steak dinner at Nick's"
           fill
           priority
@@ -60,7 +60,7 @@ export default function HomePage() {
         </div>
         <div className="relative aspect-[4/3] overflow-hidden">
           <Image
-            src={foodImages.grill}
+            src="/3.jpeg"
             alt="Friends sharing grilled food around a table"
             fill
             className="object-cover"
@@ -83,12 +83,12 @@ export default function HomePage() {
           </div>
           <div className="grid gap-5 sm:grid-cols-3">
             <Feature
-              image={foodImages.steak}
+              image="/1.jpeg"
               title="Prime cuts"
               text="Simple seasoning. Serious char."
             />
             <Feature
-              image={foodImages.salad}
+              image="/2.jpeg"
               title="Fresh sides"
               text="Color, crunch, and a little acid."
             />
