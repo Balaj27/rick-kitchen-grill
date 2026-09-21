@@ -1,0 +1,300 @@
+{
+  "categories": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Chicken Nuggets",
+          "description": "Tempura Chicken Nugget fried to perfection served with chili sauce and mayonnaise.",
+          "price": 12.9
+        },
+        {
+          "name": "French Fries",
+          "description": "Golden crispy potato strips with a crunchy exterior and fluffy interior, served with chili sauce and mayonnaise.",
+          "price": 9.0
+        },
+        {
+          "name": "Fried Enoki Mushroom (Spicy/Original)",
+          "description": "Crispy battered enoki mushrooms with a light airy crunch, served with spicy dipping sauce.",
+          "price": 12.9
+        },
+        {
+          "name": "Fish Fingers",
+          "description": "Crunchy breadcrumb-coated fish with delicate flaky interior, best enjoyed hot with lemon or tartar sauce.",
+          "price": 20.9
+        },
+        {
+          "name": "Chicken Wings",
+          "description": "Juicy drumettes and tender flats fried to golden brown perfection.",
+          "price": 15.9
+        }
+      ]
+    },
+    {
+      "name": "Soup",
+      "items": [
+        {
+          "name": "Mushroom Soup with Garlic Bread",
+          "description": "Homemade mushroom soup rich in earthy flavors, served hot with crispy garlic bread.",
+          "price": 12.9
+        }
+      ]
+    },
+    {
+      "name": "Salads",
+      "items": [
+        {
+          "name": "Garden Salad",
+          "description": "Fresh lettuce, ripe tomatoes and cucumbers tossed in tangy vinaigrette dressing.",
+          "price": 12.9
+        },
+        {
+          "name": "Grilled Chicken Salad",
+          "description": "Succulent grilled chicken served over fresh lettuce and colorful vegetables with zesty dressing.",
+          "price": 16.9
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "name": "Chicken Alfredo Pasta",
+          "description": "Creamy Italian-American pasta made with butter, parmesan cheese and cream, enhanced with garlic.",
+          "price": 21.9
+        },
+        {
+          "name": "Chicken Spicy Arrabbiata Pasta",
+          "description": "Fiery Roman-style pasta in bold tomato, garlic and chili flakes sauce sautéed in olive oil.",
+          "price": 19.9
+        },
+        {
+          "name": "Chicken Creamy Tomato Pasta",
+          "description": "Silky creamy tomato sauce finished with fresh basil and parmesan.",
+          "price": 16.0
+        },
+        {
+          "name": "Chicken Buttermilk Pasta",
+          "description": "Fusion-style spicy buttermilk chicken pasta in rich creamy sauce.",
+          "price": 18.9
+        },
+        {
+          "name": "Chicken Creamy Salted Egg Pasta",
+          "description": "Crispy chicken coated in creamy salted egg yolk sauce tossed with pasta.",
+          "price": 19.9
+        },
+        {
+          "name": "Chicken Aglio e Olio Pasta",
+          "description": "Classic spaghetti tossed in olive oil, sautéed garlic and chili flakes for bold aromatic flavour.",
+          "price": 18.0
+        }
+      ]
+    },
+    {
+      "name": "Vegetarian",
+      "items": [
+        {
+          "name": "Vege Alfredo Pasta",
+          "description": "Creamy Italian-American pasta made with butter, parmesan cheese and cream, enhanced with garlic.",
+          "price": 19.9
+        },
+        {
+          "name": "Vege Aglio e Olio Pasta",
+          "description": "Classic spaghetti tossed in olive oil, sautéed garlic and chili flakes for bold aromatic flavour.",
+          "price": 17.0
+        },
+        {
+          "name": "Vege Buttermilk Pasta",
+          "description": "Fusion-style spicy buttermilk chicken pasta in rich creamy sauce.",
+          "price": 19.9
+        },
+        {
+          "name": "Vege Creamy Salted Egg Pasta",
+          "description": "Crispy chicken coated in creamy salted egg yolk sauce tossed with pasta.",
+          "price": 19.9
+        },
+        {
+          "name": "Vege Spicy Arrabbiata Pasta",
+          "description": "Fiery Roman-style pasta in bold tomato, garlic and chili flakes sauce sautéed in olive oil.",
+          "price": 19.9
+        },
+        {
+          "name": "Margherita Pizza",
+          "description": "Classic thin crust topped with tomato sauce, mozzarella, fresh basil & a drizzle of olive oil.",
+          "price": 21.9
+        },
+        {
+          "name": "Vege Creamy Salted Egg with Rice",
+          "description": "Crispy chicken bites in velvety salted egg sauce served with rice.",
+          "price": 19.9
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "items": [
+        {
+          "name": "Hawaiian Chicken Pizza",
+          "description": "Savory and sweet delight featuring chicken, juicy pineapple chunks and mozzarella cheese on a rich tomato base.",
+          "price": 23.9
+        },
+        {
+          "name": "Mutton Varuval Pizza",
+          "description": "Rich dry-fried mutton topping with caramelized onions and spices for a bold, fiery pizza experience.",
+          "price": 26.9
+        },
+        {
+          "name": "Chicken BBQ Pizza",
+          "description": "Tangy BBQ sauce with tender shredded chicken, red onions and gooey mozzarella baked to perfection.",
+          "price": 24.9
+        },
+        {
+          "name": "Margherita Pizza",
+          "description": "Classic thin crust topped with tomato sauce, mozzarella, fresh basil & a drizzle of olive oil.",
+          "price": 21.9
+        }
+      ]
+    },
+    {
+      "name": "Asian Delights",
+      "items": [
+        {
+          "name": "Nasi Goreng Kampung",
+          "description": "Traditional Malaysian village-style fried rice with anchovies, chilies, shallots and garlic, topped with fried egg.",
+          "price": 14.9
+        },
+        {
+          "name": "Kam Heong Chicken with Rice",
+          "description": "Signature Malaysian stir-fry blending Chinese, Malay and Indian flavors with curry leaves and curry powder.",
+          "price": 18.9
+        },
+        {
+          "name": "Creamy Salted Egg Chicken with Rice",
+          "description": "Crispy chicken bites in velvety salted egg sauce served with rice.",
+          "price": 18.9
+        },
+        {
+          "name": "Buttermilk Chicken with Rice",
+          "description": "Crispy chicken in creamy buttery spicy sauce with curry leaves.",
+          "price": 18.9
+        }
+      ]
+    },
+    {
+      "name": "Indian Masala Mosaic",
+      "items": [
+        {
+          "name": "Chicken Masala Fried Rice",
+          "description": "We toss marinated chicken chunks with fragrant rice in a high-flame wok. Infused with our secret Indian masala blend.",
+          "price": 21.9
+        },
+        {
+          "name": "Mutton Masala Fried Rice",
+          "description": "Tender, slow-cooked mutton cubes tossed with fragrant rice. Wok-fired with a heavy-hitting Indian Masala, black pepper, and curry leaves.",
+          "price": 26.9
+        },
+        {
+          "name": "Chicken Satti Soru (Claypot)",
+          "description": "Tender chicken pieces are simmered in a thick, aromatic gravy and tossed with rice in a traditional claypot.",
+          "price": 22.9
+        },
+        {
+          "name": "Mutton Satti Soru (Claypot)",
+          "description": "Tender, cube mutton is slow-simmered in a thick, spicy gravy and then tossed with rice inside a traditional claypot (Satti).",
+          "price": 26.9
+        },
+        {
+          "name": "Spicy Chicken Perattal with Rice",
+          "description": "South Indian dry-style curry featuring tender chicken coated in thick, intensely spiced aromatic masala gravy, served with white rice.",
+          "price": 20.9
+        },
+        {
+          "name": "Spicy Mutton Perattal with Rice",
+          "description": "A hearty and comforting dish, slow-cooked to intensify the savoury and aromatic qualities of tender mutton, served with rice.",
+          "price": 27.9
+        }
+      ]
+    },
+    {
+      "name": "Kid's Meal",
+      "items": [
+        {
+          "name": "Mac & Cheese",
+          "description": "Creamy macaroni tossed in a rich, creamy cheese sauce. Served with a drink (Yakult / Chocolate Milk).",
+          "price": 9.9
+        },
+        {
+          "name": "Alfredo Pasta",
+          "description": "Pasta coated in a smooth, cheesy Alfredo sauce that's creamy and delicious. Served with a drink (Yakult / Chocolate Milk).",
+          "price": 9.9
+        },
+        {
+          "name": "Creamy Tomato Pasta",
+          "description": "Tender pasta in a creamy tomato sauce—a yummy favorite for little pasta lovers! Served with a drink (Yakult / Chocolate Milk).",
+          "price": 9.9
+        },
+        {
+          "name": "Nuggets with Fries",
+          "description": "Crispy, golden chicken nuggets served with a side of hot, crunchy fries. Served with a drink (Yakult / Chocolate Milk).",
+          "price": 9.9
+        },
+        {
+          "name": "Sausages with Fries",
+          "description": "Little sausages with crunchy golden fries, made for happy little tummies. Served with a drink (Yakult / Chocolate Milk).",
+          "price": 9.9
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "items": [
+        { "name": "Vanilla Ice Cream", "description": "", "price": 8.9 },
+        { "name": "Strawberry Ice Cream", "description": "", "price": 8.9 },
+        { "name": "Chocolate Ice Cream", "description": "", "price": 8.9 },
+        {
+          "name": "Oreo Crumb Topped Ice Cream",
+          "description": "",
+          "price": 9.9
+        }
+      ]
+    },
+    {
+      "name": "Hot & Cold",
+      "items": [
+        { "name": "Honey Lemon", "description": "", "price": 5.9 },
+        { "name": "Lemon Juice", "description": "", "price": 3.0 },
+        { "name": "Ice Water", "description": "", "price": 1.0 },
+        { "name": "Warm Water", "description": "", "price": 0.5 },
+        { "name": "Infused Water", "description": "", "price": 2.0 }
+      ]
+    },
+    {
+      "name": "Juices",
+      "items": [
+        { "name": "Fresh Apple Juice", "description": "", "price": 14.9 },
+        { "name": "Fresh Orange Juice", "description": "", "price": 14.9 },
+        { "name": "Fresh Watermelon Juice", "description": "", "price": 14.9 }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "items": [
+        { "name": "Vanilla Milkshake", "description": "", "price": 16.9 },
+        { "name": "Strawberry Milkshake", "description": "", "price": 16.9 },
+        { "name": "Chocolate Milkshake", "description": "", "price": 16.9 },
+        { "name": "Oreo Milkshake", "description": "", "price": 16.9 }
+      ]
+    },
+    {
+      "name": "Soft Drinks",
+      "items": [
+        { "name": "Coca-Cola", "description": "", "price": 5.9 },
+        { "name": "Ice Cream Soda", "description": "", "price": 5.9 },
+        { "name": "Sprite", "description": "", "price": 5.9 },
+        { "name": "Ice Lemon Tea", "description": "", "price": 5.9 },
+        { "name": "Root Beer", "description": "", "price": 5.9 },
+        { "name": "Root Beer Float", "description": "", "price": 9.9 }
+      ]
+    }
+  ]
+}
