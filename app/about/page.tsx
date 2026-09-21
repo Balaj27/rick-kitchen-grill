@@ -15,6 +15,7 @@ export default function AboutPage() {
         eyebrow="The Nick's way"
         title="A grill with a point of view."
         image={foodImages.kitchen}
+        sectionClassName="about-page-hero"
       />
       <section className="mx-auto grid max-w-7xl gap-12 px-6 py-20 sm:py-28 lg:grid-cols-2 lg:px-10">
         <div>

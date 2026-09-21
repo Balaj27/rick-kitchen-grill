@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function SiteHeader() {
   return (
-    <header className="absolute inset-x-0 top-0 z-20 bg-[#211d19]/95 text-white shadow-lg">
+    <header className="absolute inset-x-0 top-0 z-20 bg-[#211d19]/78 text-white shadow-lg backdrop-blur-sm">
       <div className="border-b border-white/10 bg-[#161411]/70 px-5 py-2 text-center text-[10px] uppercase tracking-[0.2em] text-white/65">
         Monday, Wednesday–Sunday · 12–2:30pm, 5:30pm until late{" "}
         <span className="mx-3 text-[#e6b34a]">•</span> +60 18-381 4255
@@ -182,19 +182,23 @@ export function PageIntro({
   eyebrow,
   title,
   image,
+  imageClassName = "",
+  sectionClassName = "",
 }: {
   eyebrow: string;
   title: string;
   image: string;
+  imageClassName?: string;
+  sectionClassName?: string;
 }) {
   return (
-    <section className="relative flex min-h-[46vh] items-end overflow-hidden bg-[#28231e] px-6 pb-14 pt-32 text-white sm:min-h-[55vh] sm:pb-20">
+    <section className={`relative flex min-h-[46vh] items-end overflow-hidden bg-[#28231e] px-6 pb-14 pt-32 text-white sm:min-h-[55vh] sm:pb-20 ${sectionClassName}`}>
       <Image
         src={image}
         alt=""
         fill
         priority
-        className="object-cover opacity-55"
+        className={`object-cover opacity-55 ${imageClassName}`}
       />
       <div className="absolute inset-0 bg-gradient-to-t from-[#201c18] via-[#201c18]/20 to-black/20" />
       <div className="relative mx-auto w-full max-w-7xl">

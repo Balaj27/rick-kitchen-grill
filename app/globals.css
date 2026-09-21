@@ -168,3 +168,9 @@
     font-family: "Playfair Display", Georgia, serif;
   }
 }
+
+@media (min-width: 640px) {
+  .about-page-hero {
+    min-height: 100vh;
+  }
+}
